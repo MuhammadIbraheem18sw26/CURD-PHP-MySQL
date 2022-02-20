@@ -11,8 +11,8 @@
   </head>
   <body>
 
-    <nav class="navbar navbar-dark bg-dark">
+    <nav class="navbar navbar-dark bg-primary">
       <div class="container">
-        <a class="navbar-brand" href="index.php">PHP MySQL CRUD</a>
+        <a class="navbar-brand" href="index.php">LAB 11 practical Task CURD</a> 
       </div>
     </nav>
